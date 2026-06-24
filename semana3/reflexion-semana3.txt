@@ -1,0 +1,8 @@
+Llevar un registro de cambios con Git es fundamental en el desarrollo de software porque evita que el código 
+se vuelva un caos. Cuando se trabaja en equipo, es normal que varias personas modifiquen los mismos archivos al 
+tiempo, y sin esta herramienta sería imposible unificar el trabajo sin borrar los avances de los demás. 
+Git funciona como una máquina del tiempo que permite guardar puntos de control seguros de cada avance del proyecto. 
+Si una nueva función llega a romper la aplicación, el equipo puede regresar a una versión estable en segundos sin 
+perder información valiosa. Además, permite identificar con nombre y fecha quién hizo cada modificación y cuál fue 
+la razón de esa decisión técnica. Esto facilita enormemente la corrección de errores porque se puede saber con 
+precisión qué línea de código causó la falla.
